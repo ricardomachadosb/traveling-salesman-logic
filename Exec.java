@@ -34,6 +34,7 @@ public class Exec {
 		System.out.println(origin + " " + destiny);
 
 		start();
+		winner.origin = origin;
 		System.out.println(winner);
 	}
 
